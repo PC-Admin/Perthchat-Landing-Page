@@ -1021,8 +1021,7 @@ footer {
   }
 
   .discover-img {
-      float: none;
-      width: auto;
+      display: none
   }
 
   .discover-img img {
@@ -1042,6 +1041,13 @@ footer {
       width: 18px;
       height: 18px;
       margin: 0 14px;
+  }
+
+  .video-block {
+      padding-top: 34px;
+      margin: 0 auto 0px;
+      max-width: 760px;
+      max-width: 90%;
   }
 }
 
