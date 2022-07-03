@@ -834,6 +834,14 @@ footer {
     margin-bottom: 29px;
 }
 
+.discover-content h3 {
+    font: 700 48px/48px "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    border-bottom: solid 6px #f4f4f4;
+    padding-bottom: 43px;
+    margin-bottom: 43px;
+}
+
 .discover-button {
     padding-top: 68px;
     margin: 0 -10px;
