@@ -1,4 +1,5 @@
-# PerthChat-Landing-Page
+# perthChat-landing-page
+
 The landing page you see at https://perthchat.org.
 
 Please contribute to make it prettier and more informative. :)
@@ -6,7 +7,7 @@ Please contribute to make it prettier and more informative. :)
 To do:
 - Stop embedded video overlapping screen on mobile.
 - Host video somewhere besides youtube. (peertube? locally?)
-- Collect more perthchat user reviews
+- Add link to lemmy.perthchat.org
 
 # License
 
