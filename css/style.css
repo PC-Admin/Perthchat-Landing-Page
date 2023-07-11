@@ -613,6 +613,41 @@ footer {
     overflow: hidden;
 }
 
+.simple-content-2 {
+    margin: auto;
+    padding-top: 37px;
+    max-width: 60%;
+}
+
+.simple-content-2 h3 {
+    font: 700 48px/48px "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    border-bottom: solid 6px #f4f4f4;
+    padding-bottom: 43px;
+    margin-bottom: 43px;
+}
+
+.simple-content-2 ul {
+    margin-bottom: 5px
+}
+
+.simple-content-2 ul li {
+    font-size: 23px;
+    line-height: 32px;
+    font-weight: 300;
+    margin-bottom: 31px;
+}
+
+.simple-content-2 ul li img {
+    float: left;
+    margin-right: 23px;
+}
+
+.simple-content-2 ul li span {
+    display: block;
+    overflow: hidden;
+}
+
 .simple-img {
     float: left;
     max-width: 587px;
